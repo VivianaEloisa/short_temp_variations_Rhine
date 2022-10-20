@@ -5,7 +5,7 @@
 ![spoints.png](readme_pics/spoints.png)
 *<sub>Sampling points along the Rhine River for the URSACHEN project. (Source: S. Terweh 2022). </sub>*
 
-#SHORT-TERM TEMPORAL VARIABILITY OF SUSPENDED SEDIMENT CHARACTERISTICS AND CHEMISTRY IN THE RHINE RIVER
+# SHORT-TERM TEMPORAL VARIABILITY OF SUSPENDED SEDIMENT CHARACTERISTICS AND CHEMISTRY IN THE RHINE RIVER
 
 >	***Background***: Suspended sediment transport is a natural process, essential
 > for assembling ecosystems and transport nutrients through the water body. This 
